@@ -1,0 +1,173 @@
+
+the zen of python
+
+1. Beautiful is better than ugly.
+美胜于丑。
+
+2. Explicit is better than implicit.
+显式优于隐式。
+
+3. Simple is better than complex.
+简单胜于复杂。
+
+4. Complex is better than complicated.
+复杂总比凌乱好。
+
+5. Flat is better than nested.
+扁平比嵌套的好。
+
+6. Sparse is better than dense.
+间隔胜于紧凑。
+
+7. Readability counts.
+重视可读性。
+
+8. Special cases aren’t special enough to break the rules.Although practicality beats purity.
+特殊情况不足以打破规则，即使特例很实用，也不可违背这些规则。
+
+10. Errors should never pass silently Unless explicitly silenced.
+错误是很正常的，要勇于面对和改正，要是你确定不想改，也可以选择pass。
+
+12. In the face of ambiguity, refuse the temptation to guess.
+13. There should be one-- and preferably only one --obvious way to do it.
+14. Although that way may not be obvious at first unless you’re Dutch.
+面对多种可能（歧义），不要尝试去猜测，而是应该尽量找一种，最好是唯一一种明显的解决方案，不过，如果你不是Python之父的话，这种解决方案一开始可能并不明显。
+
+15. Now is better than never.
+16. Although never is often better than right now.
+做也许好过不做，但动手前要细思量。
+
+17. If the implementation is hard to explain, it’s a bad idea.
+18. If the implementation is easy to explain, it may be a good idea.
+如果你无法向人解释清楚你的方案，那肯定不是一个好方案；反之亦然。
+
+19. Namespaces are one honking great idea – let’s do more of those!
+命名空间是一个绝妙的理念，我们应该多加利用。
+
+the zen of men
+
+1. Pain past is pleasure.
+
+(过去的痛苦就是快乐。）
+
+2. While there is life, there is hope.
+
+(有生命就有希望；或者译为“留得青山在，不怕没柴烧。”)
+
+3. Wisdom in the mind is better than money in the hand.
+
+(脑中有知识，胜过手中有金钱。)
+
+4. Storms make trees, take deeper roots.
+
+(风暴使树木深深扎根。)
+
+5. Nothing is impossible for a willing heart.
+
+(心之所愿，无所不成。)
+
+6. The shortest answer is doing.
+
+(最简单的回答就是行动。)
+
+7. All things are difficult before they are easy.
+
+(凡事必先难后易。)
+
+8. Great hopes make great man.
+
+(伟大的理想造就伟大的人。)
+
+9. God helps those who help themselves.
+
+(天助自助者。)
+
+
+the zen of life
+
+You become who you spend your time with.
+
+大意：你会成为那些你花时间在一起的人。
+
+解读：就像那句老话，近朱者赤近墨者黑，一个人真的会在潜移默化中影响另一个人。
+
+
+Surrender to what is. Let go of what was. Have faith in what will be.
+
+大意：接纳现实，放手过去，憧憬未来。
+
+解读：快乐就是这么简单，上面十二个字足矣。
+
+
+To make a difference in someone's life. You don't have to be brilliant, rich, beautiful or perfect. You just have to care.
+大意：在别人的生活中扮演与众不同的角色，你并不需要很优秀，很富有，很漂亮甚至完美。你仅仅需要学会关心和照顾，足矣。
+
+解读：没有完美的事，也没有完美的人，而对于自己索要扮演的角色，只需要负担好相应的责任就可以，不用每次都勉强自己。
+
+
+Difficult doesn't mean impossible. It simply means that you have to work hard.
+
+大意：困难并不代表不可能, 它仅仅意味着你必须努力奋斗。
+
+解读：不想说有困难才有动力，但困难确实不代表没有希望。
+
+If plan A fails, remember that you have 25 letters left.
+
+大意：如果A计划失败了，记住还你有25个字母可以用。
+
+解读：一次失败并不代表成功不了，它只是在告诉你需要重新思考而已。所以，永远不要放弃希望！
+
+Invest your energy into something that is going to contribute to your growth.
+大意：把你的精力投入到有助于你成长的事情中去。
+
+解读：不要把时间浪费在无意义的事情上！
+
+Life is like an ice cream, enjoy it before it melts.
+大意：生活就像冰淇淋，在融化之前好好享用它。
+
+解读：要学会抓紧时间、把握机会，否则你只能不停回味着后悔的味道。
+
+
+When you want to give up，remember why you started！
+
+大意：当你想要放弃的时候，（请）记住你当初为什么开始！
+
+解读：当想要放弃的时候就想想当初自己为什么开始，因为目的才是最好的动力。
+
+Someone is sitting in the shade today because someone planted a tree a long time ago.
+大意：今天有人坐在树荫下，是因为很久以前有人栽下一棵树。
+
+解读：先人种树后人乘凉，有时候一个看似很小的慈善之举，一定会在某个时刻发挥出闪亮的光辉。
+
+
+The things we take for granted, someone else is praying for.
+大意：我们认为理所当然的事情，却是它人求之不得的。
+
+解读：其实没有什么事情是真的理所当然，所以如果你觉得有哪些看似理所当然的事，请珍惜。
+
+Life is 10% what happens to me and 90% how I react to it.
+
+大意：生活的10%是你经历的事，剩下的90%是你如何应对它。
+
+解读：有人说生活是无聊的，因为一般人的生活中并没有太多此起彼伏的经历，更多的时间都是花在了对待生活的追求和态度上。
+
+Fall seven times get up eight.
+大意：（如果）跌倒七次，（就）爬起来八次。
+
+解读：成功和失败的唯一区别在于：你在跌倒之后是选择爬起来还是选择继续趴在地上。
+
+A journey of 1000 miles begins with a single step.
+大意：千里之行始于第一步。
+
+解读：再远的旅程也要迈开步子才行，再远大的目标，也得行动才有实现的可能。
+
+Every storm is part of your journey. Yes, you will make it through this one too. You will come out stronger than you were before...
+大意：每一次风暴都是你的人生旅程的一部分。是的，你也会度过这次难关。（这次经历之后）你会比以前更加强壮。
+
+解读：伤疤结的痂都是硬的，所以度过困难的你也会变得更加强壮，因为它不仅锻炼了你的心智，更加强了你的心理承受能力。
+
+I don't care who the biggest fish in the pond is. I'm a whole different animal.
+
+大意：我不在乎池塘里最大的鱼是哪条。我是一个完全不同的动物。
+
+解读：自信，是任何一个想要成功的人必不可少的特质；因为，你在这个世界上就是独一无二的。
